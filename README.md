@@ -22,7 +22,7 @@
 
 ### Operações Aritméticas
 
-
+### Bibliotecas 
 
 # Exercícios
 
@@ -47,3 +47,13 @@
 8. Faça um algoritmo que de um desconto de 5% no valor de um produto e mostre o valor com desconto e quando será economizado
 
 9. Faça um Algoritmo que pergunte o nome do funcionário seu salário e a porcentagem de aumento, e mostre o resultado de quanto ele terá de aumento e o valor do seu novo salário
+
+10. Faça um algoritmo que pergunte ao usuário quantos cigarros uma pessoa fuma por dia e quando anos ela fuma e retorne o resultado de quanto dias de vida a pessoa já perdeu
+
+	DADO: 1 cigarro reduz 10 minutos de vida
+
+11. Desenvolva um programa q pergunte a cidade que o usuário mora e retorne o nome em caixa alta a primeira letra do nome e a quantidade de letras
+
+12. Faça um algoritmo que pergunte o nome completo do usuário e mostre o seu primeiro nome em letras maiúsculas 
+
+
