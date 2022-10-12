@@ -24,6 +24,23 @@
 
 ### Bibliotecas 
 
+## Level 2
+
+### Estrutura de Decisão
+
+### Operadores Relacionais
+
+### Operadores Lógicos
+
+### Condições simples
+
+### Condições Composta
+
+### Condições Aninhadas
+
+### Condições Múltiplas
+
+
 # Exercícios
 
 ## Level 1
@@ -55,5 +72,24 @@
 11. Desenvolva um programa q pergunte a cidade que o usuário mora e retorne o nome em caixa alta a primeira letra do nome e a quantidade de letras
 
 12. Faça um algoritmo que pergunte o nome completo do usuário e mostre o seu primeiro nome em letras maiúsculas 
+
+## Level 2
+
+13. Faça um programa que peça para o usuário digitar as notas de duas provas de um aluno, calcule a média das notas se o aluno tiver média igual ou superior a 7 mostre a mensagem parabéns você está acima da média
+
+14. Faça um algoritmo para promoção de uma loja, quando o cliente faz uma compra acima de R$500 ele irá receber 10% de desconto
+
+15. Desenvolva um programa que pergunte o ano que o usuário nasceu e apresente sua idade, caso o usuário seja maior que 65 anos peça que ele encaminha a fila preferencial
+
+16. Faça um algoritmo que pergunte ao usuário em que ano ele nasceu, caso o usuário tenha 18 anos ou mais mostre a mensagem “Espero que você tenha se alistado no serviço milita”, caso o usuário seja menor que 18 anos mostre a mensagem que ele ainda não pode se alistar
+
+17. Desenvolva um programa onde o usuário digite um ano e o programa informe se ele é ou não bissexto
+
+18. Faça um Algoritmo de cobrança de passagem onde faça a cobrança de passagem onde passagem até 200km é cobrado R$0,50 e acima 200km R$0,35
+
+19. Desenvolva um programa que mostre o inverso ou oposto de um numero informado pelo usuário 
+
+20. Faça um programa de bilheteria de cinema onde não é possível vender um ingresso sem o valor suficiente do ingresso ou após o horário do filme
+
 
 
