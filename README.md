@@ -38,7 +38,7 @@
 
 ### Condições Aninhadas
 
-### Condições Múltiplas
+### Estrutura Escolha
 
 
 # Exercícios
@@ -90,6 +90,29 @@
 19. Desenvolva um programa que mostre o inverso ou oposto de um numero informado pelo usuário 
 
 20. Faça um programa de bilheteria de cinema onde não é possível vender um ingresso sem o valor suficiente do ingresso ou após o horário do filme
+
+21. Faça um programa Desenvolva um programa que mostre se um numero é positivo, negativo ou nulo
+
+22. Desenvolva um algoritmo que coloque dois números em ordem
+
+23. Faça um programa de programa de serviço militar onde pergunte ao usuário em que ano ele nasceu e informe se ele deve se alistar ou quando ele deveria ter se alistado ou quando ele deverá se alistar
+
+24. Desenvolva um programa que o usuário digite a sigla do estado em que ele nasceu e o programa retorne o nome do estado
+
+25. Faça um algoritmo que coloque 3 números em ordem
+
+26. Faça um algoritmo de calculadora simples com soma, subtração divisão e multiplicação  
+
+27. Desenvolva um programa q pergunte o peso do usuário e peça para o usuário escolher um planeta e o programa retorne o peso do usuário no planeta escolhido
+
+28. Faça um algoritmo de calculadora de desconto onde o usuário digita o valor do produto e conforme o feriado será um desconto carnaval 5%, dia das mães 15%, dia das crianças 20%, Black Friday 40%, natal 10%
+
+## Level 3
+
+29. Faça um contador que o usuário índice o inicio o fim e o incremento
+
+30. Faça um contador que tudo numero da tabuada do 4 aparecerá a mensagem PIM!
+
 
 
 
