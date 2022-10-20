@@ -38,7 +38,27 @@
 
 ### Condições Aninhadas
 
-### Estrutura Escolha
+### Condições múltiplas
+
+## Level 3
+
+### Estruturas de Repetição
+
+### Contagem
+
+### Cálculos em laços 
+
+### Teste de mesa
+
+### Repetição com flag
+
+### Repetição com interrupção 
+
+### Repetição com variável de controle
+
+### Laços aninhado 
+
+### Validação de dados com laço
 
 
 # Exercícios
@@ -113,6 +133,12 @@
 
 30. Faça um contador que tudo numero da tabuada do 4 aparecerá a mensagem PIM!
 
+31. Faça um contador regressivo que o usuário informe o número que irá começar e marque o múltiplo conforme o usuário informar
 
+32. Faça um algoritmo que q peça para o usuário digitar 5 valores e mostre a soma dos pares e a soma dos impares
 
+33. Faça um programa determine quantos números irá sortear e depois mostre o somatório do sorteio
 
+34. Faça um algoritmo, que peça para o usuário digitar 5 valores, e informe quantos números pares foram digitados e a media entre os pares, quantos números impares e a média entre os números impares 
+
+35. Desenvolva um programa para cadastro de pessoas e pergunte quantos usuários será cadastrado, o peso de referência, e cadastre o peso e o sexo de cada pessoa e mostre a mensagem se a pessoa está dentro ou não do limite de peso, no final mostre quantos homens e quantas mulheres estão acima do limite de peso
