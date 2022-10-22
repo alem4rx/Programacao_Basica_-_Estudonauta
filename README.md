@@ -142,3 +142,33 @@
 34. Faça um algoritmo, que peça para o usuário digitar 5 valores, e informe quantos números pares foram digitados e a media entre os pares, quantos números impares e a média entre os números impares 
 
 35. Desenvolva um programa para cadastro de pessoas e pergunte quantos usuários será cadastrado, o peso de referência, e cadastre o peso e o sexo de cada pessoa e mostre a mensagem se a pessoa está dentro ou não do limite de peso, no final mostre quantos homens e quantas mulheres estão acima do limite de peso
+
+36. Desenvolva um algoritmo q pergunte ao usuário quantos números ele deseja sortear, após o sorteio e mostre quantos números são acima de 5 e quantos são divisíveis por 3
+
+37. Faça um programa que cadastre 5 pessoas com nome e idade no final mostre o no final o nome e idade do mais velho e mais novo 
+
+38.  Faça um programa que cadastre 5 pessoas com nome sexo e idade e mostre quantos homens, o nome e idade do homem mais velho e mais novo, quantas mulheres, o nome da idade da mulher mais velha e mais nova
+
+39. Faça um programa que peça pro usuário digitar um valor ou 777 para encerrar no final mostre quantos números foram digitados, a soma dos valores, a média dos valores e o maior valor digitado
+
+40. Faça uma super calculadora que o usuário informe 2 operandos e de a opção se o usuário deseja somar subtrair multiplicar, dividir, entrar com novos operando e sair, caso o usuário digite uma opção errada a calculadora mostre q foi digitada uma opção invalida
+
+41. Desenvolva um programa de cadastro de amigos com nome e idade caso o usuário queria parar o cadastro é necessário digitar acabou, no final mostre o total de cadastro, a média de idades, o nome e idade do amigo mais velho e do amigo mais novo
+
+42. Desenvolva um programa de cadastro de funcionários, com nome sexo salário e se deseja continuar, no final mostre total de funcionários total de homens e mulheres a média salarial, quantas mulheres ganham mais do q 1300 reais e o maior salário 
+
+43. Faça um programa de que peça para o usuário digitar um número e pergunte se ele deseja continuar, no final mostre quantos números o usuário digitou, quantos pares e o menor valor de número impar
+
+44. Desenvolva um algoritmo que faça sorteio de um número e pergunte se o usuário deseja continuar, no final mostre quantos valores foram sorteados a soma dos valores o maior e o menor valor e quantas vezes o número 7 foi sorteado
+
+45. faça um jogo que o computador sorteie um número e o usuário tem 3 tentativas pra acertar se o usuário errar o computador irá informar se é necessário dizer um número maior ou menor se o usuário acertar o computador retornará venceu e quantas chances foi usada
+
+46. Faça um programa que o usuário informe um número e o programa retorne a tabuada desse numero
+ 
+47. Desenvolva um contador inteligente que faça contagem regressiva ou progressiva conforme o usuário digitar o valor do início e do fim da contagem, e o usuário irá informar também o passo a contagem
+
+48. Faça um programa que o usuário insira um número e ele retorne se o número é primo ou não, mostrando quantas vezes ele é divisível 
+
+49.  Desenvolva um programa q pergunte quantos elementos da sequência Fibonacci o usuário deseja ver e mostre o resultado
+
+50. Desenvolva um algoritmo te mostre uma sequência de tabuada onde o usuário informe a tabuada inicial e a tabuada final
