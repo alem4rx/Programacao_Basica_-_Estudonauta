@@ -172,3 +172,13 @@
 49.  Desenvolva um programa q pergunte quantos elementos da sequência Fibonacci o usuário deseja ver e mostre o resultado
 
 50. Desenvolva um algoritmo te mostre uma sequência de tabuada onde o usuário informe a tabuada inicial e a tabuada final
+
+50. Desenvolva um algoritmo te mostre uma sequência de tabuada onde o usuário informe a tabuada inicial e a tabuada final
+
+51. Faça um algoritmo que desenhe um triangulo com caracteres, onde o usuário insira a quantidade de andares do triângulo
+
+52. Faça um programa que construa um triangulo de ponta cabeça sempre a linha sendo o dobro de caracteres
+
+53. Desenvolva um algoritmo que peça ao usuário digitar um número entre 1 e 10 e pergunte ao usuário se ele deseja continuar, caso o usuário digite o número ou a resposta errada o algoritmo, mostre uma mensagem de erro, no final mostre quantos valores foram digitados e a soma entre eles
+
+54. Desenvolva um programa de cadastro de pessoas com nome idade e sexo, caso o usuário digite um dado incorreto o programa mostre uma mensagem de erro, no final mostre o quantas pessoas foram cadastradas, a média das idades a idade do mais velho
