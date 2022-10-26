@@ -60,6 +60,21 @@
 
 ### Validação de dados com laço
 
+## Level 4
+
+### Vetores
+
+### Busca sequencial em vetor
+
+### Matrizes
+
+### Isolando elementos em matrizes
+
+### Analise de elementos da Matriz
+
+### Ordenando um vetor
+
+
 
 # Exercícios
 
@@ -182,3 +197,29 @@
 53. Desenvolva um algoritmo que peça ao usuário digitar um número entre 1 e 10 e pergunte ao usuário se ele deseja continuar, caso o usuário digite o número ou a resposta errada o algoritmo, mostre uma mensagem de erro, no final mostre quantos valores foram digitados e a soma entre eles
 
 54. Desenvolva um programa de cadastro de pessoas com nome idade e sexo, caso o usuário digite um dado incorreto o programa mostre uma mensagem de erro, no final mostre o quantas pessoas foram cadastradas, a média das idades a idade do mais velho
+
+55. Faça um gerador de vetor de 10 posições onde o usuário informe o valor do primeiro elemento, e os seguintes é o dobro do elemento anterior
+
+56. Desenvolva um gerador de vetor onde o usuário informe o valor da primeira posição e as seguintes posições é a anterior mais 5
+
+57. Faça um gerador de vetor onde o programa faça o sorteio dos valores nas posições do vetor e mostre as posições na ordem crescente e decrescente
+
+58. Desenvolva algoritmo que coloque os 15 primeiros elementos de uma sequência Fibonacci em um vetor
+
+59. Faça um programa que leia a nota de 5 alunos apresente a média entre eles e quais alunos estão acima da média
+
+60. Faça uma análise de um vetor de 10 posições preenchido por sorteio, mostre o maior número e suas posições, posição dos valores pares e dos valores impares
+
+61.	Desenvolva um algoritmo com cadastre 5 pessoas em um vetor, e faça a análise dos nomes mostrando quais nomes tem menos de 5 letras, quais nomes começam com uma vogal 
+
+62. Desenvolva um programa de cadastro de 5 funcionários com nome, sexo e salário e no, final o programa mostre somente uma listagem dos funcionários cadastrados
+
+63. Desenvolva um algoritmo que cadastre 5 pessoas em um vetor com nome e idade, mostre quais estão acima da média e quais são os mais velhos
+
+## Level 4
+
+64. Desenvolva um algoritmo que preencha uma matriz 4x4 sorteando valores depois mostre a soma dos valores de cada linha
+
+65.	Desenvolva um algoritmo que preencha uma matriz 4x4 sorteando valores depois mostre a soma dos valores de cada
+
+66. Faça um programa onde cadastre numero inteiros em uma matriz 3x3 e mostre o maior valor cadastrado e quais suas posições
